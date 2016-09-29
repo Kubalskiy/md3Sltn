@@ -1,2 +1,2 @@
-# mod2_solution
+# mod3_solution
 The PAGE. Simple responsive template of the page that match all devices and browsers.
