@@ -8,6 +8,10 @@ body, html {
 
 }
 
+.dropdown{
+    text-align: center;
+}
+
 h1 {
     margin-bottom: 15px;
     color: #a59600;
