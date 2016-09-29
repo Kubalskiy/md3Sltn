@@ -12,6 +12,8 @@ body, html {
     text-align: center;
 }
 
+
+
 h1 {
     margin-bottom: 15px;
     color: #a59600;
@@ -28,14 +30,14 @@ a {
     color: #fff9ff;
 }
 
-.row {
+.row   {
     box-sizing: border-box;
-    margin: 10px auto;
-    padding: 10px auto;
-    float: left;
-    width: 100%;
+    margin:0 !important;
+    float: none;
+    width: 100% ;
     display: block;
     position: relative;
+
 
 }
 
@@ -49,11 +51,14 @@ a {
 .box {
     position: relative;
     float: left;
+    height: 1000px !important;
+    margin-bottom: 5px;
 }
 
 .cellBg-1 {
     background-color: #a50009;
     color: #fff9ff;
+
 }
 
 .cellBg-2 {
@@ -61,7 +66,7 @@ a {
 }
 
 .cellBg-3 {
-    background-color: #5253ff;
+    background-color: #38121e;
     color: #fff9ff;
 }
 
